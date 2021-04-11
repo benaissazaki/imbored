@@ -1,8 +1,10 @@
 import './App.css';
+import { Prompt } from "./components/Prompt"
 
 function App() {
   return (
     <>
+      <Prompt />
     </>
   );
 }
