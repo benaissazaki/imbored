@@ -3,9 +3,9 @@ import { ReactSVG } from "react-svg"
 export const Activity = ({ activity }) => {
     if (activity) {
         return (
-            <div>
-                <ReactSVG src={`/icons/${activity.type}.svg`} />
-                {activity.activity}
+            <div className="activity-wrapper">
+                <ReactSVG src={`/icons/${activity.type}.svg`} className="animate-bounce"/>
+                <span className="activity">{activity.activity}</span>
             </div>
         )
     } else {

@@ -13,9 +13,9 @@ export const Prompt = () => {
 
     return (
         <main className="h-screen">
-            <div className="prompt align-middle">
+            <div className="prompt text-center mx-auto shadow-lg bg-blue-300">
                 <Activity activity={activity} />
-                <button onClick={() => fetchActivity()} className="btn btn-red">What should I do?</button>
+                <button onClick={() => fetchActivity()} className="btn btn-red mt-5">What should I do?</button>
             </div>
         </main>
     )

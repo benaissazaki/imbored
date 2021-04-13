@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: 'Hometown';
+    src: local('Hometown'), url(./fonts/Hometown.ttf) format('truetype');
+}
+
 .btn {
     @apply font-bold py-2 px-4 rounded;
 }
@@ -16,4 +21,20 @@
 
 svg {
     width: 100px;
+    margin: 0 auto;
+}
+
+.activity-wrapper {
+    height: 400px;
+}
+
+.activity {
+    font-family: Hometown;
+    font-size: 38px;
+}
+
+.prompt {
+    width: 300px;
+    margin-top: 150px;
+    padding: 50px 10px;
 }
