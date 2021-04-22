@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/imbored/static/css/main.d0dbdbd4.chunk.css",
+    "main.js": "/imbored/static/js/main.7f3fae81.chunk.js",
+    "main.js.map": "/imbored/static/js/main.7f3fae81.chunk.js.map",
+    "runtime-main.js": "/imbored/static/js/runtime-main.e5b74d2d.js",
+    "runtime-main.js.map": "/imbored/static/js/runtime-main.e5b74d2d.js.map",
+    "static/js/2.ae155aa7.chunk.js": "/imbored/static/js/2.ae155aa7.chunk.js",
+    "static/js/2.ae155aa7.chunk.js.map": "/imbored/static/js/2.ae155aa7.chunk.js.map",
+    "static/js/3.6757ba06.chunk.js": "/imbored/static/js/3.6757ba06.chunk.js",
+    "static/js/3.6757ba06.chunk.js.map": "/imbored/static/js/3.6757ba06.chunk.js.map",
+    "index.html": "/imbored/index.html",
+    "static/css/main.d0dbdbd4.chunk.css.map": "/imbored/static/css/main.d0dbdbd4.chunk.css.map",
+    "static/js/2.ae155aa7.chunk.js.LICENSE.txt": "/imbored/static/js/2.ae155aa7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/imbored/static/media/Hometown.89dae1e4.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5b74d2d.js",
+    "static/js/2.ae155aa7.chunk.js",
+    "static/css/main.d0dbdbd4.chunk.css",
+    "static/js/main.7f3fae81.chunk.js"
+  ]
+}
